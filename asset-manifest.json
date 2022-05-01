@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/can-i-travel/static/css/main.022b4d33.css",
+    "main.js": "/can-i-travel/static/js/main.e93aaa40.js",
+    "static/js/787.d5eaae8c.chunk.js": "/can-i-travel/static/js/787.d5eaae8c.chunk.js",
+    "index.html": "/can-i-travel/index.html",
+    "main.022b4d33.css.map": "/can-i-travel/static/css/main.022b4d33.css.map",
+    "main.e93aaa40.js.map": "/can-i-travel/static/js/main.e93aaa40.js.map",
+    "787.d5eaae8c.chunk.js.map": "/can-i-travel/static/js/787.d5eaae8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022b4d33.css",
+    "static/js/main.e93aaa40.js"
+  ]
+}
