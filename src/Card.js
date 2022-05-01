@@ -7,14 +7,15 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import './App.css'
 
-const bull = (
-  <Box
-    component="span"
-    sx={{ display: 'inline-block', mx: '2px', transform: 'scale(0.8)' }}
-  >
-    •
-  </Box>
-);
+// const bull = (
+//   <Box
+//     component="span"
+//     sx={{ display: 'inline-block', mx: '2px', transform: 'scale(0.8)' }}
+//   >
+//     •
+//   </Box>
+// );
+
 export default function BasicCard({label, subHeading, textBody, bgColor, textColor}) {
 
   return (
